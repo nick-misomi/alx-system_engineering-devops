@@ -1,0 +1,4 @@
+#!/binbash
+ls -l
+ls -G
+ls -a
