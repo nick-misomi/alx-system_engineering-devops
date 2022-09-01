@@ -1,2 +1,3 @@
 #!/bin/bash
-adduser betty \n
+adduser betty
+su betty\n
