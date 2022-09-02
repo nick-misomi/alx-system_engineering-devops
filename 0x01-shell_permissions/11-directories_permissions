@@ -1,0 +1,2 @@
+#!/bin/bash
+chomd 755 0x00-shell_permissions
