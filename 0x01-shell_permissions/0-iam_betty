@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo adduser betty\n
+su adduser betty\n
